@@ -1,6 +1,9 @@
 body{
-    background-color: darkturquoise;
+    background-color: rgb(129, 128, 128);
     
+}
+header{
+    border: 1px black solid;
 }
 .title{
   font-family: "Dancing Script", cursive;
@@ -10,8 +13,19 @@ body{
   text-align: center;
 
 }
+a{
+    border: 1px black solid;
+    margin-left:925px;
+    border-radius: 10%;
+}
 p{
     text-align: center;
     color:red;    
+    border: 1px black solid;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    padding:5px;
+
 }
 
